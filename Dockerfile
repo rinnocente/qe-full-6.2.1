@@ -1,5 +1,5 @@
 
-FROM 	rinnocente/ubuntu-17.10-homebrewed
+FROM 	rinnocente/ubuntu-17.10-homebrew
 #
 LABEL 	maintainer="Roberto Innocente <inno@sissa.it>" \
 	version="1.0"
